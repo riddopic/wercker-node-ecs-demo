@@ -6,7 +6,7 @@
     "express": "^4.13.4",
     "js-yaml": "^3.5.3",
     "lodash": "^4.3.0",
-    "seneca": "^1.1.0",
+    "seneca": "^3.9.0",
     "seneca-redis-store": "0.0.8"
   },
   "description": "Demo node microservice deployed with wercker to ecs",
